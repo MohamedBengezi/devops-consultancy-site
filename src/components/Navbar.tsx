@@ -19,7 +19,7 @@ export default function Navbar() {
               alt="BenOps Consulting"
               width={160}
               height={160}
-              className="w-24 h-24"
+              className="w-50 h-50"
               priority
             />
           </Link>

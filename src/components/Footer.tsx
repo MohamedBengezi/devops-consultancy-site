@@ -14,9 +14,9 @@ export default function Footer() {
               <Image
                 src="/logo.svg"
                 alt="BenOps Consulting"
-                width={400}
-                height={400}
-                className="w-48 h-48 [filter:invert(1)]"
+                width={20}
+                height={20}
+                className="w-80 h-80 [filter:invert(1)]"
               />
             </div>
           </div>
