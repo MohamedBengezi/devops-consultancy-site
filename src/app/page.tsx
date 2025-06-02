@@ -157,7 +157,7 @@ export default function Home() {
         <section id="contact" className="py-24 bg-white relative overflow-hidden">
           <div className="absolute inset-0 bg-grid-gray-900/[0.02] -z-1" />
           <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-3xl relative">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-16">Let's Talk</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-16">Let&apos;s Talk</h2>
             <div className="text-center">
               <p className="text-xl text-gray-600 mb-8">
                 Ready to automate your deploys or cloud setup?<br />
