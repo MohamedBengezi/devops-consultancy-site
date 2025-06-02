@@ -3,7 +3,6 @@
 import { motion } from 'framer-motion'
 import { WrenchScrewdriverIcon, RocketLaunchIcon, CloudIcon } from '@heroicons/react/24/outline'
 import Link from 'next/link'
-import Image from 'next/image'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
@@ -162,7 +161,7 @@ export default function Home() {
             <div className="text-center">
               <p className="text-xl text-gray-600 mb-8">
                 Ready to automate your deploys or cloud setup?<br />
-                Let's chat about what you're working on.
+                Let&apos;s chat about what you&apos;re working on.
               </p>
               <Link
                 href="mailto:bengezimohamed@gmail.com"
